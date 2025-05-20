@@ -8,12 +8,20 @@
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 
-- 🚀 **Frameworks:** Flutter  
-- 🔧 **Linguagens:** Dart  
-- 💻 **IDEs:** Visual Studio Code, Android Studio  
-- 🌐 **Outros:** Git, Firebase
+Linguagens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+
+Framework
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+
+IDEs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="40"/>
+
+API
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 
 ---
 
@@ -28,8 +36,14 @@ Tenho interesse por boas práticas de desenvolvimento, arquitetura de software e
 
 ### 📫 Contato
 
-- Email: **matheuscoloni19@gmail.com**  
-- LinkedIn: [linkedin.com/in/matheuscoloni](https://www.linkedin.com/in/matheuscoloni/)  
+<p align="left">
+  <a href="mailto:matheuscoloni19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheuscoloni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
