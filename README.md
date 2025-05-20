@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hi there, My name is Matheus Coloni</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web & Mobile focado em Flutter e Dart  
+  💻 Web & Mobile Developer focused on Flutter and Dart
   <br/>
 </p>
 
 ---
 
- Tecnologias e Ferramentas
+Technologies and Tools
 
-Linguagens
+Languages
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -31,14 +31,14 @@ API
 
 ### 📌 Sobre Mim
 
-Atualmente, estou trabalhando em projetos próprios e buscando oportunidades para contribuir com soluções inovadoras.  
-Tenho interesse por boas práticas de desenvolvimento, arquitetura de software e interfaces intuitivas.
+I am currently working on my own projects and looking for opportunities to contribute with innovative solutions.
+I am interested in good development practices, software architecture and intuitive interfaces.
 
-📍 Sempre aprendendo algo novo!
+📍 Always learning something new!
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="mailto:matheuscoloni19@gmail.com" target="_blank">
