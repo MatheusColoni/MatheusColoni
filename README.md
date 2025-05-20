@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi there, my name is Matheus Coloni</h1>
+<h1 align="center">👋 Hi there, My name is Matheus Coloni</h1>
 
 <p align="center">
   💻 Desenvolvedor Web & Mobile focado em Flutter + Dart  
   <br/>
-  🚀 Apaixonado por transformar ideias em apps reais, com foco em performance, usabilidade e código limpo.
 </p>
 
 ---
