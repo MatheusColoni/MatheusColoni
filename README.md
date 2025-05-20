@@ -11,16 +11,21 @@
  Tecnologias e Ferramentas
 
 Linguagens
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 
 Framework
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
 
 IDEs
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="40"/>
 
 API
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 
 ---
