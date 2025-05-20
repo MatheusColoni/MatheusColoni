@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Matheus Coloni</h1>
 
-<!--
-**MatheusColoni/MatheusColoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor Web & Mobile focado em Flutter + Dart  
+  <br/>
+  🚀 Apaixonado por transformar ideias em apps reais, com foco em performance, usabilidade e código limpo.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias e Ferramentas
+
+- 🚀 **Frameworks:** Flutter  
+- 🔧 **Linguagens:** Dart  
+- 💻 **IDEs:** Visual Studio Code, Android Studio  
+- 🌐 **Outros:** Git, Firebase
+
+---
+
+### 📌 Sobre Mim
+
+Atualmente, estou trabalhando em projetos próprios e buscando oportunidades para contribuir com soluções inovadoras.  
+Tenho interesse por boas práticas de desenvolvimento, arquitetura de software e interfaces intuitivas.
+
+📍 Sempre aprendendo algo novo!
+
+---
+
+### 📫 Contato
+
+- Email: **matheuscoloni19@gmail.com**  
+- LinkedIn: [linkedin.com/in/matheuscoloni](https://www.linkedin.com/in/matheuscoloni/)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuscoloni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
