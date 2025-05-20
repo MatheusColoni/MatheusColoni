@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Coloni</h1>
+<h1 align="center">👋 Hi there, my name is Matheus Coloni</h1>
 
 <p align="center">
   💻 Desenvolvedor Web & Mobile focado em Flutter + Dart  
