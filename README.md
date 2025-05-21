@@ -29,7 +29,7 @@ API
 
 ---
 
-### 📌 Sobre Mim
+### 📌 about me
 
 I am currently working on my own projects and looking for opportunities to contribute with innovative solutions.
 I am interested in good development practices, software architecture and intuitive interfaces.
