@@ -27,6 +27,10 @@ API
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
+AI
+![Claude](https://img.shields.io/badge/Claude-FFCA30?style=for-the-badge&logo=Claude&logoColor=black)
+
 ---
 
 ### 📌 about me
