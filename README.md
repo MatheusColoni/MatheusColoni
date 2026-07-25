@@ -28,11 +28,11 @@ Baas
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-AI
+Tools
 
 ![Claude](https://img.shields.io/badge/Claude-FFCA30?style=for-the-badge&logo=Claude&logoColor=black)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ### 📌 about me
