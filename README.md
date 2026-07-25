@@ -23,7 +23,7 @@ IDEs
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-API
+Baas
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -31,6 +31,7 @@ API
 AI
 
 ![Claude](https://img.shields.io/badge/Claude-FFCA30?style=for-the-badge&logo=Claude&logoColor=black)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
