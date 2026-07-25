@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, My name is Matheus Coloni</h1>
 
 <p align="center">
-  💻 Web & Mobile Developer focused on Flutter and Dart
+  💻 Web & Mobile Developer 
   <br/>
 </p>
 
