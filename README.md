@@ -35,12 +35,7 @@ Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### 📌 about me
 
-I am currently working on my own projects and looking for opportunities to contribute with innovative solutions.
-I am interested in good development practices, software architecture and intuitive interfaces.
-
-📍 Always learning something new!
 
 ---
 
