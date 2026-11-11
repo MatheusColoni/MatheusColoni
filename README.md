@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi there, My name is Matheus Coloni</h1>
 
 <p align="center">
-   Web & Mobile Developer 
+   
   <br/>
 </p>
-
+Cloud Engineer in progress · Mobile Developer
 ---
 
 Technologies and Tools
