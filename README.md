@@ -4,8 +4,9 @@
    
   <br/>
 </p>
+
 Cloud Engineer in progress · Mobile Developer
----
+
 
 Technologies and Tools
 
